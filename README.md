@@ -11,7 +11,7 @@ The raw data was generously provided through The Harvard Personal Genome Project
 > Source: https://my.pgp-hms.org/user_file/download/3399
 
 
-### Sample Output
+## Sample Output
 ```
 How many basepairs were identified in each chromosome?
 	chromosome 1 has 50618 basepairs.
@@ -51,7 +51,7 @@ Which chromosome has the most, and least basepairs?
 	On average, a chromosome has 25728 basepairs.
 ```
 
-## Why are there 26 chromosomes?
+### Why are there 26 chromosomes?
 > Source: https://www.snpedia.com/index.php/Ancestry.com
 
 The data includes the 22 autosomes, 23 is the X chromosome, 24 is a Y chromosome without the psuedoautosomoal region (PAR), 25 is the PAR from the Y chromosome, and 26 is the mitochondrial dna.
